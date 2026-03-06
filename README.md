@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Hi+I'm+Esraa+Gamal;Backend+Developer;.Net+Developer;Desktop+Application+Developer+;C%2B%2B+%7C+C%23+%7C+SQL+Server;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Hi+I'm+Esraa+Gamal;Backend+Developer;.Net+Developer;Desktop+Application+Developer;C%2B%2B+%7C+C%23+%7C+SQL+Server;Always+Learning+New+Things" />
 
 </div>
 
@@ -62,12 +62,11 @@
 
 ---
 
-
-# 🐍 Contribution Snake
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github.com/esraa-gamal1/esraa-gamal1/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://activity-graph.herokuapp.com/graph?username=esraa-gamal1&theme=react-dark&hide_border=true" />
 
 </div>
 
