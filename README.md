@@ -15,12 +15,13 @@
 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
-- 👩‍💻 Visit [My Portfolio Site](https://your-portfolio-link.com) for more details about me.
-- 📫 How to reach me **your.email@example.com**
-- 💬 Ask me about **Backend, C++, .NET, SQL**
-- 🌱 I’m currently learning **Advanced C++, .NET Framework, SQL, Desktop & Web Dev**
+- 📫 How to reach me "esraagamal2627%40gmail.com"
+- 💬 Ask me about **C++, OOP, Data Structures, Algorithms & Problem Solving**
+- 🌱 I’m currently learning **Advanced C#, .NET Framework, SQL Server, Desktop & Web Dev**
 - ❤️ I love coding and exploring new tools
 - ⚡ Fun fact: **I love solving challenging problems 💡**
+- 📍 Following Roadmap [https://programmingadvices.com/p/roadmap](https://programmingadvices.com/p/roadmap)
+- 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
 
