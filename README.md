@@ -49,6 +49,15 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraa-gamal&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="Top Languages" />
 </div>
 
+# 🐍 Contribution Snake
+<div align="center">
+
+<img src="https://github.com/esraa-gamal1/esraa-gamal1/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+
+
 ## ✍️ Random Dev Quote
 
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
