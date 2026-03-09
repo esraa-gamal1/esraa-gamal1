@@ -15,7 +15,7 @@
 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
-- 💬 Ask me about **C++, OOP, Data Structures, Algorithms and Problem Solving**
+- 💬 Ask me about **C++, OOP, Data Structures, Algorithms & Problem Solving**
 - 🌱 Currently learning **Advanced C#, .NET Framework, SQL Server, Desktop & Web Development**
 - 🎯 Goal **Becoming a professional Software Developer**
 - ❤️ Passionate about coding and continuously exploring new technologies
@@ -37,8 +37,9 @@
 </a>
 
 <a href="https://t.me/esraa_gamalll" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
+
 
 <a href="https://github.com/esraa-gamall" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
