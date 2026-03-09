@@ -9,7 +9,7 @@
 <!-- ABOUT ME -->
 **Passionate Backend / .NET Developer focused on building efficient, scalable, and maintainable software solutions. Constantly learning new technologies and improving my development skills. I enjoy solving complex problems and working in challenging environments that require creativity, critical thinking, and clean code practices**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esraa-gamal&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esraa-gamall&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -26,17 +26,15 @@
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://t.me/esraa_gamalll" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-0078D4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="30" width="40" /></a>
-<a href="https://github.com/esraa-gamal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/esraa-gamall" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
 </p>
@@ -44,8 +42,8 @@
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **GitHub Stats:**
 
 <div style="display:flex; flex-direction:row; justify-content:flex-start;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=esraa-gamal&theme=github_dark&show_icons=true&include_all_commits=true"  alt="My GitHub stats" />
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraa-gamal&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="Top Languages" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&theme=github_dark&show_icons=true&include_all_commits=true"  alt="My GitHub stats" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraa-gamall&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="Top Languages" />
 </div>
 
 
