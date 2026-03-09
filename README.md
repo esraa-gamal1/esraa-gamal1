@@ -7,7 +7,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 <!-- ABOUT ME -->
-**Hardworking Backend / .NET Developer passionate about building efficient and scalable software solutions. Always eager to learn new technologies and improve my coding skills. I thrive in challenging environments that require creative solutions.**
+**Passionate Backend / .NET Developer focused on building efficient, scalable, and maintainable software solutions. Constantly learning new technologies and improving my development skills. I enjoy solving complex problems and working in challenging environments that require creativity, critical thinking, and clean code practices**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraa-gamal&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
