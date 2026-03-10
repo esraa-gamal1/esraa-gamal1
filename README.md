@@ -60,7 +60,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esraa-gamall&theme=tokyonight" width="90%"/>
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esraa-gamall&theme=tokyonight" width="45%"/>
 
